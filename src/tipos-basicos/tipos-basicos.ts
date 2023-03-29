@@ -1,4 +1,4 @@
-let nombre:string = "Jorge";
+let nombre:string  = "Jorge";
 
 nombre = 'Osvaldo';
 
